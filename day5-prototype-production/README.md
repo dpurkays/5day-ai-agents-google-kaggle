@@ -5,9 +5,9 @@
 These notebooks were originally completed on **Kaggle** as part of the 5-Day AI Agents Intensive Course, then exported here for documentation and version control.
 
 1. Explore how to use A2A Protocol to have agents interact with each other.
-   📓 [Open Notebook → day-5a-agent2agent-communication.ipynb](./day-5a-agent2agent-communication.ipynb)
-2. Deploy your agent to Agent Engine on Google Cloud. (Optional)
-   📓 [Open Notebook → day-5b-agent-deployment.ipynb](./day-5b-agent-deployment.ipynb)
+📓 [Open Notebook → day-5a-agent2agent-communication.ipynb](./day-5a-agent2agent-communication.ipynb)
+<!-- 2. Deploy your agent to Agent Engine on Google Cloud. (Optional)
+   📓 [Open Notebook → day-5b-agent-deployment.ipynb](./day-5b-agent-deployment.ipynb) -->
 
 ## Notes - Prototype to Production
 
